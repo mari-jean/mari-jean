@@ -53,7 +53,6 @@ Joron <br><br><img src="https://gifdb.com/images/high/po-kungfu-panda-head-tilti
 
 <p>Vous trouverez dans les dossiers de téléchargement des fiches formations expliquant le déroulé de la formation.</p>
 
-<br>
 <h3 style="font-size:24px">Ecole O'Clock!</h3>
 <p align="left">
 <a href="https://drive.google.com/drive/folders/1FItfOI0kcJefIyiYWbeoWnU6imzwlO7R?usp=sharing" download="Mon CV!" target="blank"<strong style="font-size: 26px; color: red;">Télécharger Mon CV</strong>
