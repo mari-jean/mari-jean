@@ -4,7 +4,7 @@ Joron <br><br><img src="https://gifdb.com/images/high/po-kungfu-panda-head-tilti
 <h2 style="margin-bottom:0.5rem;">Developpeur Back End </h2>
 </center>
 
-<p style="font-size: 16px;">Depuis le 26/09/2022, j'ai entrepris l'apprentissage du développement web. J'ai suivi une formation de 6 mois à l'école O'clock afin de devenir développeur web full stack PHP (Diplome de niv 5 Obtenue en Avril 2023). Au cours de cette formation, j'ai acquis les bases du développement avec des langages tels que HTML, CSS, JavaScript, Laravel, pour ensuite me spécialiser dans Symfony.</p>
+<p style="font-size: 16px;">Depuis le 26 Septembre 2022, j'ai entrepris l'apprentissage du développement web. J'ai suivi une formation de 6 mois à l'école O'clock afin de devenir développeur web full stack PHP (Diplome de niv 5 Obtenue en Avril 2023). Au cours de cette formation, j'ai acquis les bases du développement avec des langages tels que HTML, CSS, JavaScript, Laravel, pour ensuite me spécialiser dans Symfony.</p>
 <p style="font-size: 16px;">Je suis toujours émerveillé par le potentiel illimité du code et de la technologie qui avance a grand pas chaque jour. Même si je suis surtout intéressé pour travailler avec Symfony, qui est ma spécialisation principale, je suis également enthousiaste à l'idée d'en apprendre davantage sur Vue.js, Docker, Kubernetes, Python et bien d'autres technologies passionnantes.</p>
 <p style="font-size: 16px;">Mon objectif actuel est d'approfondir mes connaissances en JavaScript et d'obtenir des certifications Udemy pour Docker, Kubernetes et Vue.js.</p>
 
@@ -37,6 +37,22 @@ Joron <br><br><img src="https://gifdb.com/images/high/po-kungfu-panda-head-tilti
 ![Vue.js](https://img.shields.io/badge/tool-Vue.js-green?style=for-the-badge&logo=vue.js&logoColor=white)
 
 <h2 style="margin-bottom:0.5rem;">Mes CV!</h2>
+<p>Inscrit dans deux établissements distincts, O'Clock et 2I Academy, j'observe des variations dans la durée des formations et la distribution du temps passé en école par rapport à celui en entreprise.</p>
+
+<p>Chez <strong>O'Clock</strong>, la formation s'étend sur 16 mois. Elle est structurée de la manière suivante :</p>
+<ul>
+    <li>1 semaine en école</li>
+    <li>2 semaines en entreprise</li>
+</ul>
+
+<p>Quant à <strong>2I Academy</strong>, la formation dure 24 mois avec une organisation telle que :</p>
+<ul>
+    <li>1 semaine en école</li>
+    <li>3 semaines en entreprise</li>
+</ul>
+
+<p>Vous trouverez dans les dossiers de téléchargement des fiches formations expliquant le déroulé de la formation.</p>
+
 <br>
 <h3 style="font-size:24px">Ecole O'Clock!</h3>
 <p align="left">
