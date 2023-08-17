@@ -1,7 +1,7 @@
 <center>
 <h1 align="center">Bonjour! Je m´appel Mari-jean 
 Joron <br><br><img src="https://gifdb.com/images/high/po-kungfu-panda-head-tilting-wave-431omrz0kabrcf5m.gif" width="300px" style="max-width: 100%;"></h1>
-<h2 style="margin-bottom:0.5rem;">Développeur Back End </h2>
+<h2 style="margin-bottom:0.5rem;">Développeur Back End</h2>
 </center>
 
 <p style="font-size: 16px;">Depuis le 26 Septembre 2022, j'ai entrepris l'apprentissage du développement web. J'ai suivi une formation de 6 mois à l'école O'clock afin de devenir développeur web full stack PHP (Diplome de niv 5 Obtenue en Avril 2023). Au cours de cette formation, j'ai acquis les bases du développement avec des langages tels que HTML, CSS, JavaScript, Laravel, pour ensuite me spécialiser dans Symfony.</p>
@@ -36,13 +36,13 @@ Joron <br><br><img src="https://gifdb.com/images/high/po-kungfu-panda-head-tilti
 ![Kubernetes](https://img.shields.io/badge/tool-Kubernetes-blue?style=for-the-badge&logo=sequelize&logoColor=white&color=326DE6)
 ![Vue.js](https://img.shields.io/badge/tool-Vue.js-green?style=for-the-badge&logo=vue.js&logoColor=white)
 
-<h2 style="margin-bottom:0.5rem;">Mon CV!</h2>
+<h2 style="margin-bottom:0.5rem;">Mon CV !</h2>
 
 <p align="left">
 <a href="https://drive.google.com/drive/folders/1CpbvuXTATGuww73znPBjxFhqlL6pb37j?usp=sharing" download="Mon CV!" target="blank"<strong style="font-size: 26px; color: red;">Télécharger Mon CV</strong>
 </a>
 
-<h3 style="font-size:24px">Mon Linkedin</h3>
+<h3 style="font-size:24px">Mon Linkedin 📽</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mari-jean-joron/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
