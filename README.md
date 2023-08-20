@@ -50,12 +50,50 @@ Joron <br><br><img src="https://gifdb.com/images/high/po-kungfu-panda-head-tilti
 </p>
 
 <h2 style="margin-bottom:0.5rem;">Mes Projets Personnels</h2>
-
 <p align="left">
+  <p>Venez tester vos connaissance Grace au Générateur de Méthodes JS</p>
   <a href="https://mari-jean.github.io/Generateur-de-Methode-Js/" >Générateur de Methode JS</a>
-  <p>Venez tester vos connaissance en Méthodes JS</p>
 </p>
 
+<p align="left">
+  <p>Tic Tac Tic Tac</p>
+  <a href="https://mari-jean.github.io/timer/" >Besoin d'un timer ?</a>
+</p>
+
+<p align="left">
+  <p>1+1=2, 2+2=4, 2994*69/67-50=😵‍💫 </p>
+  <a href="https://mari-jean.github.io/calculatrice/" >Besoin d'une calculatrice ?</a>
+</p>
+
+<p align="left">
+  <p>Alors si je pèse 80kg et que je mesure 190cm qu'elle est mon imc ?</p>
+  <a href="https://mari-jean.github.io/calculatrice-d-imc-js/" >Calculateur d'IMC</a>
+</p>
+
+<p align="left">
+  <p>La vie est une motocross fougueuse heu non c'est pas ca ...</p>
+  <a href="https://mari-jean.github.io/generateur-de-citation/" >Besoin d'un générateur de citation ?</a>
+</p>
+
+<p align="left">
+  <p>Top 5 des meilleures Actrices</p>
+  <a href="https://mari-jean.github.io/Projet-jquery/" >Site Vitre du Top 5 de mes meilleures Actrices</a>
+</p>
+
+<p align="left">
+  <p>Quel Temps fera-t-il demain a Tokyo ?</p>
+  <a href="https://mari-jean.github.io/appli-meteo-api/" >Appli Méteo</a>
+</p>
+
+<p align="left">
+  <p>Quel est la valeur du Bitcoin ?</p>
+  <a href="https://mari-jean.github.io/un-traqueur-du-prix-du-Bitcoin--/" >Besoin d'un traqueur de prix du Bitcoin ?</a>
+</p>
+
+<p align="left">
+  <p>Saurez-vous trouver le juste prix rapidement ?</p>
+  <a href="https://mari-jean.github.io/Le-juste-prix/" >Le juste prix</a>
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-jean&layout=compact&langs_count=6&theme=github_dark)
 
