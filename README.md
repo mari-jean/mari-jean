@@ -49,6 +49,14 @@ Joron <br><br><img src="https://gifdb.com/images/high/po-kungfu-panda-head-tilti
       alt="adam pithewan" height="30" width="40" /></a>
 </p>
 
+<h2 style="margin-bottom:0.5rem;">Mes Projets Personnels</h2>
+
+<p align="left">
+  <a href="https://mari-jean.github.io/Generateur-de-Methode-Js/" >Générateur de Methode JS</a>
+  <p>Venez tester vos connaissance en Méthodes JS</p>
+</p>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-jean&layout=compact&langs_count=6&theme=github_dark)
 
 ![mari-jean GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-jean&show_icons=true&theme=github_dark)
