@@ -77,7 +77,7 @@ Joron <br><br><img src="https://gifdb.com/images/high/po-kungfu-panda-head-tilti
 
 <p align="left">
   <p>Top 5 des meilleures Actrices</p>
-  <a href="https://mari-jean.github.io/Projet-jquery/" >Site Vitre du Top 5 de mes meilleures Actrices</a>
+  <a href="https://mari-jean.github.io/Projet-jquery/" >Site Vitrine du Top 5 de mes meilleures Actrices</a>
 </p>
 
 <p align="left">
