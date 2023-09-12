@@ -1,5 +1,5 @@
 <center>
-<h1 align="center">Bonjour! Je m´appel Mari-jean 
+<h1 align="center">Bonjour! Je m´appelle Mari-jean 
 Joron <br><br><img src="https://gifdb.com/images/high/po-kungfu-panda-head-tilting-wave-431omrz0kabrcf5m.gif" width="300px" style="max-width: 100%;"></h1>
 <h2 style="margin-bottom:0.5rem;">Développeur Back End</h2>
 </center>
