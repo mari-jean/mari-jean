@@ -39,7 +39,7 @@ Joron <br><br><img src="https://gifdb.com/images/high/po-kungfu-panda-head-tilti
 <h2 style="margin-bottom:0.5rem;">Mon CV !</h2>
 
 <p align="left">
-<a href="https://drive.google.com/drive/folders/1CpbvuXTATGuww73znPBjxFhqlL6pb37j" download="Mon CV!" target="blank"<strong style="font-size: 26px; color: red;">Télécharger Mon CV</strong>
+<a href="https://drive.google.com/file/d/1D_Y7d2zFr4O4_SjLcCKrwuHuUEEmScnC/view?usp=sharing" download="Mon CV!" target="blank"<strong style="font-size: 26px; color: red;">Télécharger Mon CV</strong>
 </a>
 
 <h3 style="font-size:24px">Mon Linkedin 📽</h3>
